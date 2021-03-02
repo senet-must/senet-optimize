@@ -10,7 +10,7 @@ from models.resnet_base import resnet, CBMA_resnet, Eca_resnet, SE_resnet, Fca_P
 from models.mobilenet_v2_base import mobilenet, SE_mobilenet, CBAM_mobilenet
 from models.attention_block.CBAM import SpatialAttention
 
-
+#test
 class Net(nn.Module):
     def __init__(self, model, CLASS=102):
         super(Net, self).__init__()
