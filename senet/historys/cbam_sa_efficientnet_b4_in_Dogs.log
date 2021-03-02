@@ -1,0 +1,760 @@
+nohup: 忽略输入
+1.6.0+cu101
+cuda:1
+cbam_spatial
+Loaded pretrained weights for efficientnet-b4
+默认数据增强方式
+默认数据增强方式
+默认数据增强方式
+默认数据增强方式
+train is starting in 2021-02-28 17:50:10
+Epoch0/150
+----------
+2021-02-28 17:52:21 Train loss is :4.4179,Train accuracy is:13.2333%
+2021-02-28 17:52:21 Valid loss is :3.6479,Valid accuracy is:56.6900%
+2021-02-28 17:52:21 bestAcc is 56.6900%
+Epoch1/150
+----------
+2021-02-28 17:54:33 Train loss is :3.1750,Train accuracy is:46.2250%
+2021-02-28 17:54:33 Valid loss is :2.3540,Valid accuracy is:70.3730%
+2021-02-28 17:54:33 bestAcc is 70.3730%
+Epoch2/150
+----------
+2021-02-28 17:56:47 Train loss is :2.1899,Train accuracy is:59.9167%
+2021-02-28 17:56:47 Valid loss is :1.5488,Valid accuracy is:75.7343%
+2021-02-28 17:56:47 bestAcc is 75.7343%
+Epoch3/150
+----------
+2021-02-28 17:59:01 Train loss is :1.6328,Train accuracy is:66.0917%
+2021-02-28 17:59:01 Valid loss is :1.1422,Valid accuracy is:78.4732%
+2021-02-28 17:59:01 bestAcc is 78.4732%
+Epoch4/150
+----------
+2021-02-28 18:01:57 Train loss is :1.3257,Train accuracy is:70.0583%
+2021-02-28 18:01:57 Valid loss is :0.9303,Valid accuracy is:80.5828%
+2021-02-28 18:01:57 bestAcc is 80.5828%
+Epoch5/150
+----------
+2021-02-28 18:04:54 Train loss is :1.1312,Train accuracy is:72.4250%
+2021-02-28 18:04:54 Valid loss is :0.7918,Valid accuracy is:81.9347%
+2021-02-28 18:04:54 bestAcc is 81.9347%
+Epoch6/150
+----------
+2021-02-28 18:07:50 Train loss is :1.0201,Train accuracy is:74.0333%
+2021-02-28 18:07:50 Valid loss is :0.7043,Valid accuracy is:82.7389%
+2021-02-28 18:07:50 bestAcc is 82.7389%
+Epoch7/150
+----------
+2021-02-28 18:10:03 Train loss is :0.9237,Train accuracy is:75.8417%
+2021-02-28 18:10:03 Valid loss is :0.6437,Valid accuracy is:83.4033%
+2021-02-28 18:10:03 bestAcc is 83.4033%
+Epoch8/150
+----------
+2021-02-28 18:12:15 Train loss is :0.8623,Train accuracy is:76.8833%
+2021-02-28 18:12:15 Valid loss is :0.5994,Valid accuracy is:84.1375%
+2021-02-28 18:12:15 bestAcc is 84.1375%
+Epoch9/150
+----------
+2021-02-28 18:14:27 Train loss is :0.8113,Train accuracy is:77.4000%
+2021-02-28 18:14:27 Valid loss is :0.5587,Valid accuracy is:84.7902%
+2021-02-28 18:14:27 bestAcc is 84.7902%
+Epoch10/150
+----------
+2021-02-28 18:16:40 Train loss is :0.7614,Train accuracy is:78.5583%
+2021-02-28 18:16:40 Valid loss is :0.5381,Valid accuracy is:85.1282%
+2021-02-28 18:16:40 bestAcc is 85.1282%
+Epoch11/150
+----------
+2021-02-28 18:19:20 Train loss is :0.7145,Train accuracy is:80.3917%
+2021-02-28 18:19:20 Valid loss is :0.5119,Valid accuracy is:85.4895%
+2021-02-28 18:19:20 bestAcc is 85.4895%
+Epoch12/150
+----------
+2021-02-28 18:22:13 Train loss is :0.6868,Train accuracy is:80.5417%
+2021-02-28 18:22:13 Valid loss is :0.4942,Valid accuracy is:85.5711%
+2021-02-28 18:22:13 bestAcc is 85.5711%
+Epoch13/150
+----------
+2021-02-28 18:24:31 Train loss is :0.6444,Train accuracy is:81.8250%
+2021-02-28 18:24:31 Valid loss is :0.4776,Valid accuracy is:85.9790%
+2021-02-28 18:24:31 bestAcc is 85.9790%
+Epoch14/150
+----------
+2021-02-28 18:26:40 Train loss is :0.6294,Train accuracy is:81.9333%
+2021-02-28 18:26:40 Valid loss is :0.4640,Valid accuracy is:86.2704%
+2021-02-28 18:26:40 bestAcc is 86.2704%
+Epoch15/150
+----------
+2021-02-28 18:28:51 Train loss is :0.6065,Train accuracy is:82.4167%
+2021-02-28 18:28:51 Valid loss is :0.4516,Valid accuracy is:86.5385%
+2021-02-28 18:28:51 bestAcc is 86.5385%
+Epoch16/150
+----------
+2021-02-28 18:31:00 Train loss is :0.5961,Train accuracy is:82.6417%
+2021-02-28 18:31:00 Valid loss is :0.4389,Valid accuracy is:86.8182%
+2021-02-28 18:31:00 bestAcc is 86.8182%
+Epoch17/150
+----------
+2021-02-28 18:33:14 Train loss is :0.5810,Train accuracy is:83.0083%
+2021-02-28 18:33:14 Valid loss is :0.4326,Valid accuracy is:86.9464%
+2021-02-28 18:33:14 bestAcc is 86.9464%
+Epoch18/150
+----------
+2021-02-28 18:35:24 Train loss is :0.5604,Train accuracy is:83.4917%
+2021-02-28 18:35:24 Valid loss is :0.4281,Valid accuracy is:86.9114%
+2021-02-28 18:35:24 bestAcc is 86.9464%
+Epoch19/150
+----------
+2021-02-28 18:37:34 Train loss is :0.5448,Train accuracy is:84.3083%
+2021-02-28 18:37:34 Valid loss is :0.4181,Valid accuracy is:87.2378%
+2021-02-28 18:37:34 bestAcc is 87.2378%
+Epoch20/150
+----------
+2021-02-28 18:39:44 Train loss is :0.5234,Train accuracy is:84.3750%
+2021-02-28 18:39:44 Valid loss is :0.4088,Valid accuracy is:87.4942%
+2021-02-28 18:39:44 bestAcc is 87.4942%
+Epoch21/150
+----------
+2021-02-28 18:41:54 Train loss is :0.5179,Train accuracy is:84.4667%
+2021-02-28 18:41:54 Valid loss is :0.4031,Valid accuracy is:87.5991%
+2021-02-28 18:41:54 bestAcc is 87.5991%
+Epoch22/150
+----------
+2021-02-28 18:44:04 Train loss is :0.4998,Train accuracy is:85.2167%
+2021-02-28 18:44:04 Valid loss is :0.3960,Valid accuracy is:87.9720%
+2021-02-28 18:44:04 bestAcc is 87.9720%
+Epoch23/150
+----------
+2021-02-28 18:46:14 Train loss is :0.4948,Train accuracy is:85.0333%
+2021-02-28 18:46:14 Valid loss is :0.3917,Valid accuracy is:88.1119%
+2021-02-28 18:46:14 bestAcc is 88.1119%
+Epoch24/150
+----------
+2021-02-28 18:48:24 Train loss is :0.4735,Train accuracy is:86.0250%
+2021-02-28 18:48:24 Valid loss is :0.3857,Valid accuracy is:88.0070%
+2021-02-28 18:48:24 bestAcc is 88.1119%
+Epoch25/150
+----------
+2021-02-28 18:50:34 Train loss is :0.4701,Train accuracy is:86.1833%
+2021-02-28 18:50:34 Valid loss is :0.3827,Valid accuracy is:88.2051%
+2021-02-28 18:50:34 bestAcc is 88.2051%
+Epoch26/150
+----------
+2021-02-28 18:52:45 Train loss is :0.4671,Train accuracy is:85.9417%
+2021-02-28 18:52:45 Valid loss is :0.3810,Valid accuracy is:88.2168%
+2021-02-28 18:52:45 bestAcc is 88.2168%
+Epoch27/150
+----------
+2021-02-28 18:54:55 Train loss is :0.4553,Train accuracy is:86.4417%
+2021-02-28 18:54:55 Valid loss is :0.3755,Valid accuracy is:88.4615%
+2021-02-28 18:54:55 bestAcc is 88.4615%
+Epoch28/150
+----------
+2021-02-28 18:57:07 Train loss is :0.4411,Train accuracy is:86.8000%
+2021-02-28 18:57:07 Valid loss is :0.3725,Valid accuracy is:88.5315%
+2021-02-28 18:57:07 bestAcc is 88.5315%
+Epoch29/150
+----------
+2021-02-28 18:59:21 Train loss is :0.4407,Train accuracy is:86.7083%
+2021-02-28 18:59:21 Valid loss is :0.3680,Valid accuracy is:88.6480%
+2021-02-28 18:59:21 bestAcc is 88.6480%
+Epoch30/150
+----------
+2021-02-28 19:02:03 Train loss is :0.4264,Train accuracy is:86.7833%
+2021-02-28 19:02:03 Valid loss is :0.3681,Valid accuracy is:88.4732%
+2021-02-28 19:02:03 bestAcc is 88.6480%
+Epoch31/150
+----------
+2021-02-28 19:04:57 Train loss is :0.4289,Train accuracy is:87.0333%
+2021-02-28 19:04:57 Valid loss is :0.3628,Valid accuracy is:88.4732%
+2021-02-28 19:04:57 bestAcc is 88.6480%
+Epoch32/150
+----------
+2021-02-28 19:07:50 Train loss is :0.4119,Train accuracy is:87.2333%
+2021-02-28 19:07:50 Valid loss is :0.3613,Valid accuracy is:88.6713%
+2021-02-28 19:07:50 bestAcc is 88.6713%
+Epoch33/150
+----------
+2021-02-28 19:10:09 Train loss is :0.4009,Train accuracy is:88.0750%
+2021-02-28 19:10:09 Valid loss is :0.3584,Valid accuracy is:88.7879%
+2021-02-28 19:10:09 bestAcc is 88.7879%
+Epoch34/150
+----------
+2021-02-28 19:12:19 Train loss is :0.4126,Train accuracy is:87.1500%
+2021-02-28 19:12:19 Valid loss is :0.3596,Valid accuracy is:88.6830%
+2021-02-28 19:12:19 bestAcc is 88.7879%
+Epoch35/150
+----------
+2021-02-28 19:14:29 Train loss is :0.3962,Train accuracy is:87.9333%
+2021-02-28 19:14:29 Valid loss is :0.3544,Valid accuracy is:88.9510%
+2021-02-28 19:14:29 bestAcc is 88.9510%
+Epoch36/150
+----------
+2021-02-28 19:16:39 Train loss is :0.3920,Train accuracy is:88.2000%
+2021-02-28 19:16:39 Valid loss is :0.3522,Valid accuracy is:89.0559%
+2021-02-28 19:16:39 bestAcc is 89.0559%
+Epoch37/150
+----------
+2021-02-28 19:18:50 Train loss is :0.3912,Train accuracy is:88.4500%
+2021-02-28 19:18:50 Valid loss is :0.3509,Valid accuracy is:88.8462%
+2021-02-28 19:18:50 bestAcc is 89.0559%
+Epoch38/150
+----------
+2021-02-28 19:21:00 Train loss is :0.3749,Train accuracy is:88.7000%
+2021-02-28 19:21:00 Valid loss is :0.3490,Valid accuracy is:89.0793%
+2021-02-28 19:21:00 bestAcc is 89.0793%
+Epoch39/150
+----------
+2021-02-28 19:23:11 Train loss is :0.3712,Train accuracy is:88.7083%
+2021-02-28 19:23:11 Valid loss is :0.3460,Valid accuracy is:89.1026%
+2021-02-28 19:23:11 bestAcc is 89.1026%
+Epoch40/150
+----------
+2021-02-28 19:25:21 Train loss is :0.3710,Train accuracy is:88.9750%
+2021-02-28 19:25:21 Valid loss is :0.3435,Valid accuracy is:89.1026%
+2021-02-28 19:25:21 bestAcc is 89.1026%
+Epoch41/150
+----------
+2021-02-28 19:27:31 Train loss is :0.3629,Train accuracy is:88.9167%
+2021-02-28 19:27:31 Valid loss is :0.3416,Valid accuracy is:89.2191%
+2021-02-28 19:27:31 bestAcc is 89.2191%
+Epoch42/150
+----------
+2021-02-28 19:29:41 Train loss is :0.3573,Train accuracy is:88.9083%
+2021-02-28 19:29:41 Valid loss is :0.3412,Valid accuracy is:89.1608%
+2021-02-28 19:29:41 bestAcc is 89.2191%
+Epoch43/150
+----------
+2021-02-28 19:31:51 Train loss is :0.3509,Train accuracy is:89.2500%
+2021-02-28 19:31:51 Valid loss is :0.3409,Valid accuracy is:89.1608%
+2021-02-28 19:31:51 bestAcc is 89.2191%
+Epoch44/150
+----------
+2021-02-28 19:34:01 Train loss is :0.3420,Train accuracy is:89.2167%
+2021-02-28 19:34:01 Valid loss is :0.3390,Valid accuracy is:89.1375%
+2021-02-28 19:34:01 bestAcc is 89.2191%
+Epoch45/150
+----------
+2021-02-28 19:36:11 Train loss is :0.3353,Train accuracy is:89.7917%
+2021-02-28 19:36:11 Valid loss is :0.3372,Valid accuracy is:89.2075%
+2021-02-28 19:36:11 bestAcc is 89.2191%
+Epoch46/150
+----------
+2021-02-28 19:38:22 Train loss is :0.3353,Train accuracy is:89.5667%
+2021-02-28 19:38:22 Valid loss is :0.3352,Valid accuracy is:89.3007%
+2021-02-28 19:38:22 bestAcc is 89.3007%
+Epoch47/150
+----------
+2021-02-28 19:40:32 Train loss is :0.3234,Train accuracy is:90.1167%
+2021-02-28 19:40:32 Valid loss is :0.3324,Valid accuracy is:89.3823%
+2021-02-28 19:40:32 bestAcc is 89.3823%
+Epoch48/150
+----------
+2021-02-28 19:42:42 Train loss is :0.3165,Train accuracy is:90.1500%
+2021-02-28 19:42:42 Valid loss is :0.3328,Valid accuracy is:89.4056%
+2021-02-28 19:42:42 bestAcc is 89.4056%
+Epoch49/150
+----------
+2021-02-28 19:44:52 Train loss is :0.3226,Train accuracy is:90.3583%
+2021-02-28 19:44:52 Valid loss is :0.3329,Valid accuracy is:89.3823%
+2021-02-28 19:44:52 bestAcc is 89.4056%
+Epoch50/150
+----------
+2021-02-28 19:47:02 Train loss is :0.3173,Train accuracy is:90.1167%
+2021-02-28 19:47:02 Valid loss is :0.3318,Valid accuracy is:89.3473%
+2021-02-28 19:47:02 bestAcc is 89.4056%
+Epoch51/150
+----------
+2021-02-28 19:49:11 Train loss is :0.3148,Train accuracy is:90.2250%
+2021-02-28 19:49:11 Valid loss is :0.3313,Valid accuracy is:89.4289%
+2021-02-28 19:49:11 bestAcc is 89.4289%
+Epoch52/150
+----------
+2021-02-28 19:51:21 Train loss is :0.3063,Train accuracy is:90.5083%
+2021-02-28 19:51:21 Valid loss is :0.3290,Valid accuracy is:89.4522%
+2021-02-28 19:51:21 bestAcc is 89.4522%
+Epoch53/150
+----------
+2021-02-28 19:53:31 Train loss is :0.3089,Train accuracy is:90.4083%
+2021-02-28 19:53:31 Valid loss is :0.3297,Valid accuracy is:89.3823%
+2021-02-28 19:53:31 bestAcc is 89.4522%
+Epoch54/150
+----------
+2021-02-28 19:55:41 Train loss is :0.3045,Train accuracy is:90.6167%
+2021-02-28 19:55:41 Valid loss is :0.3278,Valid accuracy is:89.5455%
+2021-02-28 19:55:41 bestAcc is 89.5455%
+Epoch55/150
+----------
+2021-02-28 19:57:54 Train loss is :0.3055,Train accuracy is:90.6500%
+2021-02-28 19:57:54 Valid loss is :0.3276,Valid accuracy is:89.5221%
+2021-02-28 19:57:54 bestAcc is 89.5455%
+Epoch56/150
+----------
+2021-02-28 20:00:18 Train loss is :0.2999,Train accuracy is:90.7333%
+2021-02-28 20:00:18 Valid loss is :0.3257,Valid accuracy is:89.5921%
+2021-02-28 20:00:18 bestAcc is 89.5921%
+Epoch57/150
+----------
+2021-02-28 20:03:12 Train loss is :0.2862,Train accuracy is:91.4500%
+2021-02-28 20:03:12 Valid loss is :0.3250,Valid accuracy is:89.7319%
+2021-02-28 20:03:12 bestAcc is 89.7319%
+Epoch58/150
+----------
+2021-02-28 20:06:04 Train loss is :0.2898,Train accuracy is:91.1417%
+2021-02-28 20:06:04 Valid loss is :0.3228,Valid accuracy is:89.6853%
+2021-02-28 20:06:04 bestAcc is 89.7319%
+Epoch59/150
+----------
+2021-02-28 20:08:59 Train loss is :0.2861,Train accuracy is:91.0667%
+2021-02-28 20:08:59 Valid loss is :0.3230,Valid accuracy is:89.6970%
+2021-02-28 20:08:59 bestAcc is 89.7319%
+Epoch60/150
+----------
+2021-02-28 20:11:13 Train loss is :0.2861,Train accuracy is:91.1333%
+2021-02-28 20:11:13 Valid loss is :0.3241,Valid accuracy is:89.5688%
+2021-02-28 20:11:13 bestAcc is 89.7319%
+Epoch61/150
+----------
+2021-02-28 20:13:24 Train loss is :0.2822,Train accuracy is:91.4917%
+2021-02-28 20:13:24 Valid loss is :0.3246,Valid accuracy is:89.4872%
+2021-02-28 20:13:24 bestAcc is 89.7319%
+Epoch62/150
+----------
+2021-02-28 20:15:34 Train loss is :0.2764,Train accuracy is:91.7833%
+2021-02-28 20:15:34 Valid loss is :0.3232,Valid accuracy is:89.7203%
+2021-02-28 20:15:34 bestAcc is 89.7319%
+Epoch63/150
+----------
+2021-02-28 20:17:44 Train loss is :0.2757,Train accuracy is:91.6667%
+2021-02-28 20:17:44 Valid loss is :0.3221,Valid accuracy is:89.4988%
+2021-02-28 20:17:44 bestAcc is 89.7319%
+Epoch64/150
+----------
+2021-02-28 20:19:55 Train loss is :0.2702,Train accuracy is:91.5417%
+2021-02-28 20:19:55 Valid loss is :0.3223,Valid accuracy is:89.5804%
+2021-02-28 20:19:55 bestAcc is 89.7319%
+Epoch65/150
+----------
+2021-02-28 20:22:04 Train loss is :0.2696,Train accuracy is:91.5833%
+2021-02-28 20:22:04 Valid loss is :0.3225,Valid accuracy is:89.5921%
+2021-02-28 20:22:04 bestAcc is 89.7319%
+Epoch66/150
+----------
+2021-02-28 20:24:15 Train loss is :0.2668,Train accuracy is:91.8583%
+2021-02-28 20:24:15 Valid loss is :0.3221,Valid accuracy is:89.6737%
+2021-02-28 20:24:15 bestAcc is 89.7319%
+Epoch67/150
+----------
+2021-02-28 20:26:27 Train loss is :0.2702,Train accuracy is:91.8583%
+2021-02-28 20:26:27 Valid loss is :0.3216,Valid accuracy is:89.4988%
+2021-02-28 20:26:27 bestAcc is 89.7319%
+Epoch68/150
+----------
+2021-02-28 20:28:39 Train loss is :0.2674,Train accuracy is:91.7583%
+2021-02-28 20:28:39 Valid loss is :0.3220,Valid accuracy is:89.6270%
+2021-02-28 20:28:39 bestAcc is 89.7319%
+Epoch69/150
+----------
+2021-02-28 20:30:52 Train loss is :0.2571,Train accuracy is:92.0500%
+2021-02-28 20:30:52 Valid loss is :0.3197,Valid accuracy is:89.8252%
+2021-02-28 20:30:52 bestAcc is 89.8252%
+Epoch70/150
+----------
+2021-02-28 20:33:01 Train loss is :0.2579,Train accuracy is:92.2417%
+2021-02-28 20:33:01 Valid loss is :0.3188,Valid accuracy is:89.8834%
+2021-02-28 20:33:01 bestAcc is 89.8834%
+Epoch71/150
+----------
+2021-02-28 20:35:09 Train loss is :0.2486,Train accuracy is:92.3333%
+2021-02-28 20:35:09 Valid loss is :0.3176,Valid accuracy is:89.8834%
+2021-02-28 20:35:09 bestAcc is 89.8834%
+Epoch72/150
+----------
+2021-02-28 20:37:18 Train loss is :0.2528,Train accuracy is:92.1917%
+2021-02-28 20:37:18 Valid loss is :0.3185,Valid accuracy is:89.8485%
+2021-02-28 20:37:18 bestAcc is 89.8834%
+Epoch73/150
+----------
+2021-02-28 20:39:33 Train loss is :0.2419,Train accuracy is:92.6167%
+2021-02-28 20:39:33 Valid loss is :0.3194,Valid accuracy is:89.7552%
+2021-02-28 20:39:33 bestAcc is 89.8834%
+Epoch74/150
+----------
+2021-02-28 20:41:42 Train loss is :0.2455,Train accuracy is:92.2833%
+2021-02-28 20:41:42 Valid loss is :0.3208,Valid accuracy is:89.7203%
+2021-02-28 20:41:42 bestAcc is 89.8834%
+Epoch75/150
+----------
+2021-02-28 20:43:51 Train loss is :0.2466,Train accuracy is:92.5667%
+2021-02-28 20:43:51 Valid loss is :0.3159,Valid accuracy is:89.7902%
+2021-02-28 20:43:51 bestAcc is 89.8834%
+Epoch76/150
+----------
+2021-02-28 20:46:00 Train loss is :0.2364,Train accuracy is:92.9583%
+2021-02-28 20:46:00 Valid loss is :0.3165,Valid accuracy is:89.7203%
+2021-02-28 20:46:00 bestAcc is 89.8834%
+Epoch77/150
+----------
+2021-02-28 20:48:09 Train loss is :0.2393,Train accuracy is:92.7667%
+2021-02-28 20:48:09 Valid loss is :0.3175,Valid accuracy is:89.7436%
+2021-02-28 20:48:09 bestAcc is 89.8834%
+Epoch78/150
+----------
+2021-02-28 20:50:18 Train loss is :0.2382,Train accuracy is:92.7417%
+2021-02-28 20:50:18 Valid loss is :0.3144,Valid accuracy is:89.9417%
+2021-02-28 20:50:18 bestAcc is 89.9417%
+Epoch79/150
+----------
+2021-02-28 20:52:28 Train loss is :0.2246,Train accuracy is:93.2000%
+2021-02-28 20:52:28 Valid loss is :0.3160,Valid accuracy is:89.8601%
+2021-02-28 20:52:28 bestAcc is 89.9417%
+Epoch80/150
+----------
+2021-02-28 20:54:37 Train loss is :0.2293,Train accuracy is:92.9417%
+2021-02-28 20:54:37 Valid loss is :0.3166,Valid accuracy is:89.7203%
+2021-02-28 20:54:37 bestAcc is 89.9417%
+Epoch81/150
+----------
+2021-02-28 20:56:47 Train loss is :0.2295,Train accuracy is:92.7917%
+2021-02-28 20:56:47 Valid loss is :0.3167,Valid accuracy is:89.6853%
+2021-02-28 20:56:47 bestAcc is 89.9417%
+Epoch82/150
+----------
+2021-02-28 20:58:57 Train loss is :0.2246,Train accuracy is:93.3583%
+2021-02-28 20:58:57 Valid loss is :0.3159,Valid accuracy is:89.9301%
+2021-02-28 20:58:57 bestAcc is 89.9417%
+Epoch83/150
+----------
+2021-02-28 21:01:08 Train loss is :0.2263,Train accuracy is:92.9750%
+2021-02-28 21:01:08 Valid loss is :0.3157,Valid accuracy is:89.9417%
+2021-02-28 21:01:08 bestAcc is 89.9417%
+Epoch84/150
+----------
+2021-02-28 21:03:18 Train loss is :0.2203,Train accuracy is:93.3333%
+2021-02-28 21:03:18 Valid loss is :0.3156,Valid accuracy is:89.8718%
+2021-02-28 21:03:18 bestAcc is 89.9417%
+Epoch85/150
+----------
+2021-02-28 21:05:28 Train loss is :0.2222,Train accuracy is:93.0000%
+2021-02-28 21:05:28 Valid loss is :0.3142,Valid accuracy is:89.9650%
+2021-02-28 21:05:28 bestAcc is 89.9650%
+Epoch86/150
+----------
+2021-02-28 21:07:38 Train loss is :0.2205,Train accuracy is:93.0583%
+2021-02-28 21:07:38 Valid loss is :0.3146,Valid accuracy is:89.9184%
+2021-02-28 21:07:38 bestAcc is 89.9650%
+Epoch87/150
+----------
+2021-02-28 21:09:49 Train loss is :0.2223,Train accuracy is:93.0417%
+2021-02-28 21:09:49 Valid loss is :0.3142,Valid accuracy is:89.8834%
+2021-02-28 21:09:49 bestAcc is 89.9650%
+Epoch88/150
+----------
+2021-02-28 21:11:59 Train loss is :0.2221,Train accuracy is:93.1083%
+2021-02-28 21:11:59 Valid loss is :0.3138,Valid accuracy is:89.9883%
+2021-02-28 21:11:59 bestAcc is 89.9883%
+Epoch89/150
+----------
+2021-02-28 21:14:09 Train loss is :0.2143,Train accuracy is:93.3667%
+2021-02-28 21:14:09 Valid loss is :0.3170,Valid accuracy is:89.8135%
+2021-02-28 21:14:09 bestAcc is 89.9883%
+Epoch90/150
+----------
+2021-02-28 21:16:20 Train loss is :0.2144,Train accuracy is:93.5833%
+2021-02-28 21:16:20 Valid loss is :0.3125,Valid accuracy is:89.9301%
+2021-02-28 21:16:20 bestAcc is 89.9883%
+Epoch91/150
+----------
+2021-02-28 21:18:31 Train loss is :0.2071,Train accuracy is:93.5250%
+2021-02-28 21:18:31 Valid loss is :0.3142,Valid accuracy is:89.9534%
+2021-02-28 21:18:31 bestAcc is 89.9883%
+Epoch92/150
+----------
+2021-02-28 21:20:41 Train loss is :0.2065,Train accuracy is:93.5500%
+2021-02-28 21:20:41 Valid loss is :0.3132,Valid accuracy is:90.0233%
+2021-02-28 21:20:41 bestAcc is 90.0233%
+Epoch93/150
+----------
+2021-02-28 21:22:52 Train loss is :0.2136,Train accuracy is:93.3250%
+2021-02-28 21:22:52 Valid loss is :0.3138,Valid accuracy is:90.0117%
+2021-02-28 21:22:52 bestAcc is 90.0233%
+Epoch94/150
+----------
+2021-02-28 21:25:02 Train loss is :0.2077,Train accuracy is:93.5667%
+2021-02-28 21:25:02 Valid loss is :0.3138,Valid accuracy is:90.0466%
+2021-02-28 21:25:02 bestAcc is 90.0466%
+Epoch95/150
+----------
+2021-02-28 21:27:15 Train loss is :0.2057,Train accuracy is:93.7000%
+2021-02-28 21:27:15 Valid loss is :0.3141,Valid accuracy is:89.9184%
+2021-02-28 21:27:15 bestAcc is 90.0466%
+Epoch96/150
+----------
+2021-02-28 21:29:41 Train loss is :0.1988,Train accuracy is:93.8167%
+2021-02-28 21:29:41 Valid loss is :0.3113,Valid accuracy is:90.1282%
+2021-02-28 21:29:41 bestAcc is 90.1282%
+Epoch97/150
+----------
+2021-02-28 21:31:56 Train loss is :0.1967,Train accuracy is:94.0333%
+2021-02-28 21:31:56 Valid loss is :0.3130,Valid accuracy is:90.0583%
+2021-02-28 21:31:56 bestAcc is 90.1282%
+Epoch98/150
+----------
+2021-02-28 21:34:06 Train loss is :0.1976,Train accuracy is:93.8333%
+2021-02-28 21:34:06 Valid loss is :0.3118,Valid accuracy is:90.1049%
+2021-02-28 21:34:06 bestAcc is 90.1282%
+Epoch99/150
+----------
+2021-02-28 21:36:15 Train loss is :0.1989,Train accuracy is:93.9333%
+2021-02-28 21:36:15 Valid loss is :0.3136,Valid accuracy is:89.9650%
+2021-02-28 21:36:15 bestAcc is 90.1282%
+Epoch100/150
+----------
+2021-02-28 21:38:25 Train loss is :0.1928,Train accuracy is:94.1250%
+2021-02-28 21:38:25 Valid loss is :0.3134,Valid accuracy is:89.9534%
+2021-02-28 21:38:25 bestAcc is 90.1282%
+Epoch101/150
+----------
+2021-02-28 21:40:34 Train loss is :0.1957,Train accuracy is:93.8250%
+2021-02-28 21:40:34 Valid loss is :0.3123,Valid accuracy is:89.9534%
+2021-02-28 21:40:34 bestAcc is 90.1282%
+Epoch102/150
+----------
+2021-02-28 21:42:44 Train loss is :0.1921,Train accuracy is:94.1917%
+2021-02-28 21:42:44 Valid loss is :0.3111,Valid accuracy is:90.0466%
+2021-02-28 21:42:44 bestAcc is 90.1282%
+Epoch103/150
+----------
+2021-02-28 21:44:53 Train loss is :0.1901,Train accuracy is:94.3333%
+2021-02-28 21:44:53 Valid loss is :0.3149,Valid accuracy is:89.9650%
+2021-02-28 21:44:53 bestAcc is 90.1282%
+Epoch104/150
+----------
+2021-02-28 21:47:03 Train loss is :0.1833,Train accuracy is:94.4417%
+2021-02-28 21:47:03 Valid loss is :0.3123,Valid accuracy is:90.0816%
+2021-02-28 21:47:03 bestAcc is 90.1282%
+Epoch105/150
+----------
+2021-02-28 21:49:12 Train loss is :0.1906,Train accuracy is:93.9917%
+2021-02-28 21:49:12 Valid loss is :0.3139,Valid accuracy is:90.0000%
+2021-02-28 21:49:12 bestAcc is 90.1282%
+Epoch106/150
+----------
+2021-02-28 21:51:22 Train loss is :0.1760,Train accuracy is:94.7250%
+2021-02-28 21:51:22 Valid loss is :0.3114,Valid accuracy is:90.1282%
+2021-02-28 21:51:22 bestAcc is 90.1282%
+Epoch107/150
+----------
+2021-02-28 21:53:31 Train loss is :0.1809,Train accuracy is:94.4750%
+2021-02-28 21:53:31 Valid loss is :0.3117,Valid accuracy is:90.1632%
+2021-02-28 21:53:31 bestAcc is 90.1632%
+Epoch108/150
+----------
+2021-02-28 21:55:41 Train loss is :0.1828,Train accuracy is:94.5167%
+2021-02-28 21:55:41 Valid loss is :0.3125,Valid accuracy is:90.1748%
+2021-02-28 21:55:41 bestAcc is 90.1748%
+Epoch109/150
+----------
+2021-02-28 21:57:50 Train loss is :0.1828,Train accuracy is:94.3583%
+2021-02-28 21:57:50 Valid loss is :0.3130,Valid accuracy is:90.1049%
+2021-02-28 21:57:50 bestAcc is 90.1748%
+Epoch110/150
+----------
+2021-02-28 22:00:00 Train loss is :0.1822,Train accuracy is:94.3500%
+2021-02-28 22:00:00 Valid loss is :0.3129,Valid accuracy is:90.0932%
+2021-02-28 22:00:00 bestAcc is 90.1748%
+Epoch111/150
+----------
+2021-02-28 22:02:10 Train loss is :0.1705,Train accuracy is:94.8083%
+2021-02-28 22:02:10 Valid loss is :0.3117,Valid accuracy is:90.0816%
+2021-02-28 22:02:10 bestAcc is 90.1748%
+Epoch112/150
+----------
+2021-02-28 22:04:21 Train loss is :0.1767,Train accuracy is:94.5167%
+2021-02-28 22:04:21 Valid loss is :0.3133,Valid accuracy is:90.1166%
+2021-02-28 22:04:21 bestAcc is 90.1748%
+Epoch113/150
+----------
+2021-02-28 22:06:34 Train loss is :0.1773,Train accuracy is:94.4667%
+2021-02-28 22:06:34 Valid loss is :0.3101,Valid accuracy is:90.1049%
+2021-02-28 22:06:34 bestAcc is 90.1748%
+Epoch114/150
+----------
+2021-02-28 22:08:49 Train loss is :0.1722,Train accuracy is:94.9000%
+2021-02-28 22:08:49 Valid loss is :0.3130,Valid accuracy is:90.0117%
+2021-02-28 22:08:49 bestAcc is 90.1748%
+Epoch115/150
+----------
+2021-02-28 22:11:43 Train loss is :0.1769,Train accuracy is:94.4333%
+2021-02-28 22:11:43 Valid loss is :0.3105,Valid accuracy is:90.2214%
+2021-02-28 22:11:43 bestAcc is 90.2214%
+Epoch116/150
+----------
+2021-02-28 22:13:56 Train loss is :0.1813,Train accuracy is:94.3417%
+2021-02-28 22:13:56 Valid loss is :0.3127,Valid accuracy is:90.1282%
+2021-02-28 22:13:56 bestAcc is 90.2214%
+Epoch117/150
+----------
+2021-02-28 22:16:06 Train loss is :0.1686,Train accuracy is:94.8167%
+2021-02-28 22:16:06 Valid loss is :0.3125,Valid accuracy is:90.0816%
+2021-02-28 22:16:06 bestAcc is 90.2214%
+Epoch118/150
+----------
+2021-02-28 22:18:16 Train loss is :0.1643,Train accuracy is:94.9167%
+2021-02-28 22:18:16 Valid loss is :0.3108,Valid accuracy is:90.1981%
+2021-02-28 22:18:16 bestAcc is 90.2214%
+Epoch119/150
+----------
+2021-02-28 22:20:27 Train loss is :0.1636,Train accuracy is:94.9833%
+2021-02-28 22:20:27 Valid loss is :0.3091,Valid accuracy is:90.1049%
+2021-02-28 22:20:27 bestAcc is 90.2214%
+Epoch120/150
+----------
+2021-02-28 22:22:36 Train loss is :0.1674,Train accuracy is:94.7500%
+2021-02-28 22:22:36 Valid loss is :0.3098,Valid accuracy is:90.2331%
+2021-02-28 22:22:36 bestAcc is 90.2331%
+Epoch121/150
+----------
+2021-02-28 22:24:45 Train loss is :0.1613,Train accuracy is:95.3417%
+2021-02-28 22:24:45 Valid loss is :0.3100,Valid accuracy is:90.2681%
+2021-02-28 22:24:45 bestAcc is 90.2681%
+Epoch122/150
+----------
+2021-02-28 22:26:54 Train loss is :0.1653,Train accuracy is:94.9917%
+2021-02-28 22:26:54 Valid loss is :0.3110,Valid accuracy is:90.1166%
+2021-02-28 22:26:54 bestAcc is 90.2681%
+Epoch123/150
+----------
+2021-02-28 22:29:03 Train loss is :0.1614,Train accuracy is:94.8583%
+2021-02-28 22:29:03 Valid loss is :0.3113,Valid accuracy is:90.0583%
+2021-02-28 22:29:03 bestAcc is 90.2681%
+Epoch124/150
+----------
+2021-02-28 22:31:12 Train loss is :0.1654,Train accuracy is:94.9917%
+2021-02-28 22:31:12 Valid loss is :0.3113,Valid accuracy is:90.1399%
+2021-02-28 22:31:12 bestAcc is 90.2681%
+Epoch125/150
+----------
+2021-02-28 22:33:22 Train loss is :0.1682,Train accuracy is:94.9500%
+2021-02-28 22:33:22 Valid loss is :0.3106,Valid accuracy is:90.1632%
+2021-02-28 22:33:22 bestAcc is 90.2681%
+Epoch126/150
+----------
+2021-02-28 22:35:31 Train loss is :0.1649,Train accuracy is:95.0417%
+2021-02-28 22:35:31 Valid loss is :0.3134,Valid accuracy is:90.0816%
+2021-02-28 22:35:31 bestAcc is 90.2681%
+Epoch127/150
+----------
+2021-02-28 22:37:40 Train loss is :0.1558,Train accuracy is:95.3583%
+2021-02-28 22:37:40 Valid loss is :0.3138,Valid accuracy is:90.1515%
+2021-02-28 22:37:40 bestAcc is 90.2681%
+Epoch128/150
+----------
+2021-02-28 22:39:49 Train loss is :0.1560,Train accuracy is:95.1833%
+2021-02-28 22:39:49 Valid loss is :0.3117,Valid accuracy is:90.1865%
+2021-02-28 22:39:49 bestAcc is 90.2681%
+Epoch129/150
+----------
+2021-02-28 22:41:59 Train loss is :0.1562,Train accuracy is:95.1667%
+2021-02-28 22:41:59 Valid loss is :0.3122,Valid accuracy is:90.1515%
+2021-02-28 22:41:59 bestAcc is 90.2681%
+Epoch130/150
+----------
+2021-02-28 22:44:09 Train loss is :0.1521,Train accuracy is:95.1583%
+2021-02-28 22:44:09 Valid loss is :0.3123,Valid accuracy is:90.0699%
+2021-02-28 22:44:09 bestAcc is 90.2681%
+Epoch131/150
+----------
+2021-02-28 22:46:20 Train loss is :0.1542,Train accuracy is:95.2917%
+2021-02-28 22:46:20 Valid loss is :0.3118,Valid accuracy is:90.1748%
+2021-02-28 22:46:20 bestAcc is 90.2681%
+Epoch132/150
+----------
+2021-02-28 22:48:32 Train loss is :0.1516,Train accuracy is:95.3417%
+2021-02-28 22:48:32 Valid loss is :0.3128,Valid accuracy is:90.1166%
+2021-02-28 22:48:32 bestAcc is 90.2681%
+Epoch133/150
+----------
+2021-02-28 22:51:03 Train loss is :0.1536,Train accuracy is:95.2500%
+2021-02-28 22:51:03 Valid loss is :0.3120,Valid accuracy is:90.0932%
+2021-02-28 22:51:03 bestAcc is 90.2681%
+Epoch134/150
+----------
+2021-02-28 22:53:55 Train loss is :0.1511,Train accuracy is:95.4500%
+2021-02-28 22:53:55 Valid loss is :0.3129,Valid accuracy is:90.2331%
+2021-02-28 22:53:55 bestAcc is 90.2681%
+Epoch135/150
+----------
+2021-02-28 22:56:05 Train loss is :0.1472,Train accuracy is:95.5750%
+2021-02-28 22:56:05 Valid loss is :0.3109,Valid accuracy is:90.2681%
+2021-02-28 22:56:05 bestAcc is 90.2681%
+Epoch136/150
+----------
+2021-02-28 22:58:14 Train loss is :0.1464,Train accuracy is:95.6250%
+2021-02-28 22:58:14 Valid loss is :0.3120,Valid accuracy is:90.2214%
+2021-02-28 22:58:14 bestAcc is 90.2681%
+Epoch137/150
+----------
+2021-02-28 23:00:23 Train loss is :0.1344,Train accuracy is:96.0000%
+2021-02-28 23:00:23 Valid loss is :0.3133,Valid accuracy is:90.0932%
+2021-02-28 23:00:23 bestAcc is 90.2681%
+Epoch138/150
+----------
+2021-02-28 23:02:32 Train loss is :0.1481,Train accuracy is:95.4667%
+2021-02-28 23:02:32 Valid loss is :0.3120,Valid accuracy is:90.2564%
+2021-02-28 23:02:32 bestAcc is 90.2681%
+Epoch139/150
+----------
+2021-02-28 23:04:41 Train loss is :0.1482,Train accuracy is:95.5500%
+2021-02-28 23:04:41 Valid loss is :0.3125,Valid accuracy is:90.0583%
+2021-02-28 23:04:41 bestAcc is 90.2681%
+Epoch140/150
+----------
+2021-02-28 23:06:50 Train loss is :0.1420,Train accuracy is:95.7000%
+2021-02-28 23:06:50 Valid loss is :0.3126,Valid accuracy is:90.2214%
+2021-02-28 23:06:50 bestAcc is 90.2681%
+Epoch141/150
+----------
+2021-02-28 23:08:59 Train loss is :0.1402,Train accuracy is:96.0167%
+2021-02-28 23:08:59 Valid loss is :0.3120,Valid accuracy is:90.1282%
+2021-02-28 23:08:59 bestAcc is 90.2681%
+Epoch142/150
+----------
+2021-02-28 23:11:08 Train loss is :0.1474,Train accuracy is:95.5083%
+2021-02-28 23:11:08 Valid loss is :0.3138,Valid accuracy is:90.2448%
+2021-02-28 23:11:08 bestAcc is 90.2681%
+Epoch143/150
+----------
+2021-02-28 23:13:17 Train loss is :0.1374,Train accuracy is:96.0583%
+2021-02-28 23:13:17 Valid loss is :0.3132,Valid accuracy is:90.0932%
+2021-02-28 23:13:17 bestAcc is 90.2681%
+Epoch144/150
+----------
+2021-02-28 23:15:26 Train loss is :0.1391,Train accuracy is:95.7833%
+2021-02-28 23:15:26 Valid loss is :0.3136,Valid accuracy is:90.1748%
+2021-02-28 23:15:26 bestAcc is 90.2681%
+Epoch145/150
+----------
+2021-02-28 23:17:36 Train loss is :0.1360,Train accuracy is:95.9167%
+2021-02-28 23:17:36 Valid loss is :0.3099,Valid accuracy is:90.3613%
+2021-02-28 23:17:36 bestAcc is 90.3613%
+Epoch146/150
+----------
+2021-02-28 23:19:45 Train loss is :0.1397,Train accuracy is:95.9917%
+2021-02-28 23:19:45 Valid loss is :0.3115,Valid accuracy is:90.3030%
+2021-02-28 23:19:45 bestAcc is 90.3613%
+Epoch147/150
+----------
+2021-02-28 23:21:54 Train loss is :0.1434,Train accuracy is:95.8167%
+2021-02-28 23:21:54 Valid loss is :0.3126,Valid accuracy is:90.2098%
+2021-02-28 23:21:54 bestAcc is 90.3613%
+Epoch148/150
+----------
+2021-02-28 23:24:04 Train loss is :0.1357,Train accuracy is:95.8667%
+2021-02-28 23:24:04 Valid loss is :0.3136,Valid accuracy is:90.1632%
+2021-02-28 23:24:04 bestAcc is 90.3613%
+Epoch149/150
+----------
+2021-02-28 23:26:13 Train loss is :0.1343,Train accuracy is:96.0333%
+2021-02-28 23:26:13 Valid loss is :0.3135,Valid accuracy is:90.2564%
+2021-02-28 23:26:13 bestAcc is 90.3613%
