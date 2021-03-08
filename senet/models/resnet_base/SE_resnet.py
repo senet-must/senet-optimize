@@ -122,7 +122,9 @@ class Bottleneck(nn.Module):
         self.conv3 = conv1x1(width, planes * self.expansion)
         self.bn3 = norm_layer(planes * self.expansion)
         self.relu = nn.ReLU(inplace=True)
-        # self.seblock = SELayer(planes * self.expansion, reduction)
+        self.seblock = SELayer(planes * self.expansion, reduction) #一开始按照论文的方式加
+
+
         self.downsample = downsample
         self.stride = stride
 
@@ -140,7 +142,7 @@ class Bottleneck(nn.Module):
         out = self.conv3(out)
         out = self.bn3(out)
 
-        # out = self.seblock(out)
+        out = self.seblock(out) #一开始按照论文的方式加
 
         if self.downsample is not None:
             identity = self.downsample(x)
@@ -193,7 +195,7 @@ class ResNet(nn.Module):
                                        dilate=replace_stride_with_dilation[1])
         self.layer4 = self._make_layer(block, 512, layers[3], stride=2,
                                        dilate=replace_stride_with_dilation[2])
-        self.seblock = SELayer(2048, reduction)
+        self.seblock = SELayer(2048, reduction) #第二次加在最后一层卷积后
         self.avgpool = nn.AdaptiveAvgPool2d((1, 1))
         self.fc = nn.Linear(512 * block.expansion, num_classes)
 
@@ -249,7 +251,7 @@ class ResNet(nn.Module):
         x = self.layer2(x)
         x = self.layer3(x)
         x = self.layer4(x)
-        x = self.seblock(x)
+        x = self.seblock(x) #第二次加在最后一层卷积后
         x = self.avgpool(x)
         x = torch.flatten(x, 1)
         x = self.fc(x)
