@@ -10,36 +10,20 @@ from models.resnet_base import resnet, CBMA_resnet, Eca_resnet, SE_resnet, Fca_P
 from models.mobilenet_v2_base import mobilenet, SE_mobilenet, CBAM_mobilenet
 from models.attention_block.CBAM import SpatialAttention
 
-#test
+
 class Net(nn.Module):
     def __init__(self, model, CLASS=102):
         super(Net, self).__init__()
         # 选择resnet 除最后一层的全连接，改为CLASS输出
         self.resnet = nn.Sequential(*list(model.children())[:-1])
         self.avgpool = nn.AdaptiveAvgPool2d((1, 1))
-        self.maxpool = nn.AdaptiveMaxPool2d((1, 1))
-        # self.dct_1d_spatial_pool = SpatialAttention(2048, 7, 7)
-        # 可以选择冻结卷积层
-        # for p in self.parameters():
-        #     p.requires_grad = False
-        # self.fc = nn.Linear(in_features=512, out_features=CLASS)
-        # self.dropout = nn.Dropout(0.2)
+
         self.fc1 = nn.Linear(in_features=2048, out_features=CLASS)
         # self.fc2 = nn.Linear(in_features=512, out_features=CLASS)
     def forward(self, x):
         x = self.resnet(x)
-        y1 = self.avgpool(x)
-        y2 = self.maxpool(x)
-        x = y1 + y2
-        # z1 = torch.mean(x, dim=1, keepdim=True)
-        # z2, _ = torch.max(x, dim=1, keepdim=True)
-        # z3 = self.dct_1d_spatial_pool(x)
+        x = self.avgpool(x)
 
-        # x = nn.functional.adaptive_avg_pool2d(x, 1).reshape(x.shape[0], -1)
-        # x = self.dropout(x)
-        # y = torch.flatten(y, 1)
-
-        # x = torch.cat([z1, z2, z3], dim=1)
 
         x = self.fc1(x)
         return x
@@ -200,7 +184,7 @@ def _stanfordDogs():
     lr = 1e-4
     print("cuda:2")
     device = torch.device("cuda:2" if torch.cuda.is_available() else "cpu")
-    model = Net(resnet.resnet50(pretrained=True), 120)
+    model = Net(SE_resnet.resnet50(pretrained=True), 120)#看这里
     model.to(device)
     criterion = torch.nn.CrossEntropyLoss()
     # optimzer = torch.optim.SGD(model.parameters(), lr=1e-4, momentum=0.9, weight_decay=0.0001)
